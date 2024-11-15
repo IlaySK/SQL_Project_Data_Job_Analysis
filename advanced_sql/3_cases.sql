@@ -1,7 +1,7 @@
 /* 
 Label new column as follows based on job_location:
 - 'Anywhere' jobs as 'Remote'
-- 'Tel Aviv, TA' jobs as  'Local'
+- 'Israel' jobs as  'Local'
 - Otherwise 'Onsite'
 */
 
